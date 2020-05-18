@@ -10,7 +10,7 @@
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#E2EEF8"
+        android:background="#D2E8FB"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="-35dp"></LinearLayout>
@@ -31,7 +31,7 @@
         android:id="@+id/textView"
         android:layout_width="338dp"
         android:layout_height="69dp"
-        android:text="Haga clic en un usuario único elegible para obtener más información y ver si es compatible con los datos"
+        android:text="Haga clic en un usuario único elegible para obtener más información y ver si es compatible con los datos (deslice hacia abajo)"
         app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
